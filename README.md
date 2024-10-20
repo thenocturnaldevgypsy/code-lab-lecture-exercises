@@ -4,11 +4,11 @@
 <p align="center"><strong>You like the Repo? Don't forget to 🌟, 👁️, 🔱 and ❤️!</strong></p>
 <p align="center">
    <img src="https://img.shields.io/badge/Purpose-EDUCATION/LEARNING-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Purpose-EDUCATION/LEARNING">
-   <img src="https://img.shields.io/badge/Version-2.1.2-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Version 2.1.2">
+   <img src="https://img.shields.io/badge/Version-2.1.3-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Version 2.1.3">
    <img src="https://img.shields.io/badge/Lang-Java%2022.0.2-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Lang-Java 22.0.2">
    <img src="https://img.shields.io/badge/Contribute-OPEN-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Contribute-OPEN">
    <img src="https://img.shields.io/badge/License-MIT-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="License MIT">
-   <img src="https://img.shields.io/badge/Last%20Update-12.10.2024-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update 12.10.2024">
+   <img src="https://img.shields.io/badge/Last%20Update-20.10.2024-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update 20.10.2024">
    <a href="https://ko-fi.com/thenocturnaldevgypsy">
       <img src="https://img.shields.io/badge/Support%20me%20via%20Ko--Fi-%2300416a?logo=ko-fi&logoColor=white&color=%2300416a&textColor=white" alt="Support me via Ko-Fi">
    </a>
@@ -127,7 +127,7 @@ project-root/
       ```
 
 ## ![SECTION Roadmap](https://custom-icon-badges.demolab.com/badge/-Roadmap-24292e?logo=tasklist&logoColor=white&labelColor=00416a)
-See the [open issues](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/thenocturnaldevgypsy-io/duskgrimoires-java-lab-exercises/issues) for a list of proposed features (and known issues).
 
 ## ![SECTION Changelog](https://custom-icon-badges.demolab.com/badge/-Changelog-24292e?logo=log&logoColor=white&labelColor=00416a)
 
@@ -135,16 +135,16 @@ Below is the latest updates, go to the [Changelog Listing](CHANGELOG.md) for the
 
 | Version | Date | Commit | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2.1.2 | 12.10.2024 | [2daf750](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/pull/11/commits/2daf750d6854343fef0dce4c940aaf29e0c16708), [b12bf41](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/pull/11/commits/b12bf41d43e7770666be8e4c897720a02d69b7c2), [2e079c3](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/pull/11/commits/2e079c3f0353b55bc34ca81ffbd547583ac469b6), [2daf750](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/pull/11/commits/2daf750d6854343fef0dce4c940aaf29e0c16708), [8eb68cc](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/pull/11/commits/8eb68cc9a9a8821015e539991c2082c67e75b003), [b7d0c3a](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/pull/11/commits/b7d0c3a4c7199b89c2c00493e143a632c3181add), [e0f92a0](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/pull/11/commits/e0f92a075cdab1afd059a46b6970e2a949dcc3a1), [366c1a6](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/pull/11/commits/366c1a66c88e7409f4652e10e9433ca0898875a5) for [PR 11](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/pull/11) | feat | - Updated `.gitignore` and deleted unnecessary folders and files in the repo<br>- Updated all the markdown files based on the updated template from https://github.com/thenocturnaldevgypsy/github-md-template |
+| 2.1.3 | 20.10.2024 | [573cbfe](https://github.com/thenocturnaldevgypsy-io/duskgrimoires-java-lab-exercises/commit/573cbfe2db0f19169072a4e9e9fa0423d40f925e) for [PR 2](https://github.com/thenocturnaldevgypsy-io/duskgrimoires-java-lab-exercises/pull/2) | feat | - Old GitHub account [@thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy) got flagged for no reason given, recreating the repo to the new account [@thenocturnaldevgypsy-io](https://github.com/thenocturnaldevgypsy-io) [[PR 2](https://github.com/thenocturnaldevgypsy-io/duskgrimoires-java-lab-exercises/pull/2)]<br>- Updated the repo's documentation's URL for some links, but kept the ones from the CHANGELOG<br>- Transferred the open issues from the old repo to the new repo as it's part of the repo's Roadmap.<br>- For more info for the whole migration, see GitHub Project: https://github.com/users/thenocturnaldevgypsy-io/projects/1/views/1 |
 
 ## ![SECTION Contribute](https://custom-icon-badges.demolab.com/badge/-Contribute-24292e?logo=code-of-conduct&logoColor=white&labelColor=00416a)
 Want to contribute? Great! Contributions welcome, but please read the [contribution guidelines](CONTRIBUTING.md) first on how to contribute to the project, including pull request guidelines and community contributions.
 
 ## ![SECTION License](https://custom-icon-badges.demolab.com/badge/-License-24292e?logo=file-badge&logoColor=white&labelColor=00416a)
-Distributed under the MIT License by [Abegail Torrendon / thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy).
+Distributed under the MIT License by [Abegail Torrendon / thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy-io).
 - You can freely modify and reuse.
 - The original [LICENSE](LICENSE.md) must be included with copies of this software.
 - Please link back (if you can fork, the better) to this repo. 
 
 ## ![SECTION Get in Touch](https://custom-icon-badges.demolab.com/badge/-Get%20in%20Touch-24292e?logo=pencil&logoColor=white&labelColor=00416a)
-I'd love to hear your thoughts on the project and get your suggestions. Feel free to [create new issue](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/issues/new) on this repo or you can also contact me at [my AMA repo](https://github.com/thenocturnaldevgypsy/ama-ask-me-anything).
+I'd love to hear your thoughts on the project and get your suggestions. Feel free to [create new issue](https://github.com/thenocturnaldevgypsy-io/duskgrimoires-java-lab-exercises/issues/new) on this repo or you can also contact me at [my AMA repo](https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything).
