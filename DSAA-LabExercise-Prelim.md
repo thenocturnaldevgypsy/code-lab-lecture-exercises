@@ -6,6 +6,7 @@
    <img src="https://img.shields.io/badge/Purpose-EDUCATION/LEARNING-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Purpose-EDUCATION/LEARNING">
    <img src="https://img.shields.io/badge/Version-2.1.3-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Version 2.1.3">
    <img src="https://img.shields.io/badge/Lang-Java%2022.0.2-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Lang-Java 22.0.2">
+   <img src="https://img.shields.io/badge/Database-None-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Database-None">
    <img src="https://img.shields.io/badge/Contribute-OPEN-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Contribute-OPEN">
    <img src="https://img.shields.io/badge/License-MIT-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="License MIT">
    <img src="https://img.shields.io/badge/Last%20Update-20.10.2024-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update 20.10.2024">
@@ -14,28 +15,28 @@
    </a>
 </p>
 
-## ![SECTION Contents and Breakdown](https://custom-icon-badges.demolab.com/badge/-Contents%20and%20Breakdown-24292e?logo=book&logoColor=white&labelColor=00416a)
+## ![SECTION Contents and Breakdown](https://custom-icon-badges.demolab.com/badge/-Contents%20and%20Breakdown-2471AE?logo=book&logoColor=white&labelColor=2471AE)
 
 #### Under Data Structures and Algorithm Analysis > All Activities under Prelim Period
 
 Back to [Main](README.md)
 
-## ![SUBSECTION Demo](https://custom-icon-badges.demolab.com/badge/-Demo-24292e?logo=codespaces&logoColor=white&labelColor=2471AE)
+## ![SUBSECTION Demo](https://custom-icon-badges.demolab.com/badge/-Demo-24292e?logo=codespaces&logoColor=white&labelColor=00416a)
 
 ```
 Demo
-├── Demo # 1: One Dimensional Array (Demo_OneDimArray.java)
-├── Demo # 2: One Dimensional Array - Debug (Demo_OneDimArray_Debug)
-├── Demo # 3: One Dimensional Array - Input (Demo_OneDimArray_Input.java)
-├── Demo # 4: Two Dimensional Array (Demo_TwoDimArray.java)
-├── Demo # 5: Two Dimensional Array - String (Demo_TwoDimArray_String.java)
-├── Demo # 6: Two Dimensional Array - Storing (Demo_TwoDimArray_Storing.java)
-├── Demo # 7: Method (Demo_Method.java)
-├── Demo # 8: Method - Return (Demo_Method_Return.java)
-├── Demo # 9: Method - Void (Demo_Method_Void.java)
-├── Demo # 10: Stack (Demo_Stack.java)
-├── Demo # 11: String - Reversed Word (Demo_String_ReverseWord.java)
-└── Demo # 12: Stack - Decimal To Binary (Demo_Stack_DecToBin.java)
+├─ Demo # 1: One Dimensional Array (Demo_OneDimArray.java)
+├─ Demo # 2: One Dimensional Array - Debug (Demo_OneDimArray_Debug)
+├─ Demo # 3: One Dimensional Array - Input (Demo_OneDimArray_Input.java)
+├─ Demo # 4: Two Dimensional Array (Demo_TwoDimArray.java)
+├─ Demo # 5: Two Dimensional Array - String (Demo_TwoDimArray_String.java)
+├─ Demo # 6: Two Dimensional Array - Storing (Demo_TwoDimArray_Storing.java)
+├─ Demo # 7: Method (Demo_Method.java)
+├─ Demo # 8: Method - Return (Demo_Method_Return.java)
+├─ Demo # 9: Method - Void (Demo_Method_Void.java)
+├─ Demo # 10: Stack (Demo_Stack.java)
+├─ Demo # 11: String - Reversed Word (Demo_String_ReverseWord.java)
+└─ Demo # 12: Stack - Decimal To Binary (Demo_Stack_DecToBin.java)
 ```
 
 <!-- 1. Demo #1
@@ -48,23 +49,23 @@ Demo
       Copy/paste output here
       ``` -->
 
-## ![SUBSECTION Exercises (conditions and expected output)](https://custom-icon-badges.demolab.com/badge/-Exercises%20(conditions%20and%20expected%20output)-24292e?logo=beaker&logoColor=white&labelColor=2471AE)
+## ![SUBSECTION Exercises (conditions and expected output)](https://custom-icon-badges.demolab.com/badge/-Exercises%20(conditions%20and%20expected%20output)-24292e?logo=beaker&logoColor=white&labelColor=00416a)
 
 ```
 Exercises (conditions and expected output)
-├── Exercise # 1: Java Refresher (Prelim_Exercise1_JavaRefresher.java)
-├── Exercise # 2: One Dimensional Array - Minimum, Maximum, Average (Prelim_Exercise2_OneDimArray_MinMaxAve.java)
-├── Exercise # 3: Two Dimensional Array - Minimum, Maximum, Average (Prelim_Exercise3_TwoDimArray_MinMaxAve.java)
-├── Exercise # 4: Arrays - Faculty Listing, Type, Rate and Salary (Prelim_Exercise4_FacultyPayslip.java)
-├── Exercise # 5: Arrays - BubbleSort (Prelim_Exercise5_BubbleSort.java)
-├── Exercise # 6: Arrays - Linear Binary Search (Prelim_Exercise6_LinearBinarySearch.java)
-├── Exercise # 7: Arrays - InsertionSort and SelectionSort (Prelim_Exercise7_InsertionSortSelectionSort.java)
-├── Exercise # 8: Method - Operations (Prelim_Exercise8_Method_Operations.java)
-├── Exercise # 9: Method - Factorial (Prelim_Exercise9_Method_Factorial.java)
-├── Exercise # 10: Method - TriangularNumber (Prelim_Exercise10_Method_TriangularNumber.java)
-├── Exercise # 11: Stack - Reversed Word (Prelim_Exercise11_Stack_ReverseWord.java)
-├── Exercise # 12: Stack - Leave Bracket Alone (Prelim_Exercise12_Stack_Brackets.java)
-└── Exercise # 13: Stack - Decimal Conversion (Prelim_Exercise13_DecimalConversion.java)
+├─ Exercise # 1: Java Refresher (Prelim_Exercise1_JavaRefresher.java)
+├─ Exercise # 2: One Dimensional Array - Minimum, Maximum, Average (Prelim_Exercise2_OneDimArray_MinMaxAve.java)
+├─ Exercise # 3: Two Dimensional Array - Minimum, Maximum, Average (Prelim_Exercise3_TwoDimArray_MinMaxAve.java)
+├─ Exercise # 4: Arrays - Faculty Listing, Type, Rate and Salary (Prelim_Exercise4_FacultyPayslip.java)
+├─ Exercise # 5: Arrays - BubbleSort (Prelim_Exercise5_BubbleSort.java)
+├─ Exercise # 6: Arrays - Linear Binary Search (Prelim_Exercise6_LinearBinarySearch.java)
+├─ Exercise # 7: Arrays - InsertionSort and SelectionSort (Prelim_Exercise7_InsertionSortSelectionSort.java)
+├─ Exercise # 8: Method - Operations (Prelim_Exercise8_Method_Operations.java)
+├─ Exercise # 9: Method - Factorial (Prelim_Exercise9_Method_Factorial.java)
+├─ Exercise # 10: Method - TriangularNumber (Prelim_Exercise10_Method_TriangularNumber.java)
+├─ Exercise # 11: Stack - Reversed Word (Prelim_Exercise11_Stack_ReverseWord.java)
+├─ Exercise # 12: Stack - Leave Bracket Alone (Prelim_Exercise12_Stack_Brackets.java)
+└─ Exercise # 13: Stack - Decimal Conversion (Prelim_Exercise13_DecimalConversion.java)
 ```
 
 Exercise # 1: Java Refresher (Prelim_Exercise1_JavaRefresher.java)

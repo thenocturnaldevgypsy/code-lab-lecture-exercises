@@ -6,6 +6,7 @@
    <img src="https://img.shields.io/badge/Purpose-EDUCATION/LEARNING-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Purpose-EDUCATION/LEARNING">
    <img src="https://img.shields.io/badge/Version-2.1.3-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Version 2.1.3">
    <img src="https://img.shields.io/badge/Lang-Java%2022.0.2-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Lang-Java 22.0.2">
+   <img src="https://img.shields.io/badge/Database-None-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Database-None">
    <img src="https://img.shields.io/badge/Contribute-OPEN-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Contribute-OPEN">
    <img src="https://img.shields.io/badge/License-MIT-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="License MIT">
    <img src="https://img.shields.io/badge/Last%20Update-20.10.2024-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update 20.10.2024">
@@ -14,28 +15,28 @@
    </a>
 </p>
 
-## ![SECTION Contents and Breakdown](https://custom-icon-badges.demolab.com/badge/-Contents%20and%20Breakdown-24292e?logo=book&logoColor=white&labelColor=00416a)
+## ![SECTION Contents and Breakdown](https://custom-icon-badges.demolab.com/badge/-Contents%20and%20Breakdown-2471AE?logo=book&logoColor=white&labelColor=2471AE)
 
 #### Under Data Structures and Algorithm Analysis > All Activities under Midterm Period
 
 Back to [Main](README.md)
 
-## ![SUBSECTION Demo](https://custom-icon-badges.demolab.com/badge/-Demo-24292e?logo=codespaces&logoColor=white&labelColor=2471AE)
+## ![SUBSECTION Demo](https://custom-icon-badges.demolab.com/badge/-Demo-24292e?logo=codespaces&logoColor=white&labelColor=00416a)
 
 ```
 Demo
-└── Demo # 1: Linked List (Demo_LinkedList.java)
+└─ Demo # 1: Linked List (Demo_LinkedList.java)
 ```
 
-## ![SUBSECTION Exercises (conditions and expected output)](https://custom-icon-badges.demolab.com/badge/-Exercises%20(conditions%20and%20expected%20output)-24292e?logo=beaker&logoColor=white&labelColor=2471AE)
+## ![SUBSECTION Exercises (conditions and expected output)](https://custom-icon-badges.demolab.com/badge/-Exercises%20(conditions%20and%20expected%20output)-24292e?logo=beaker&logoColor=white&labelColor=00416a)
 
 ```
 Exercises (conditions and expected output)
-├── Exercise # 1: Linked List - Linear Search (Midterm_Exercise1_LinkedList_LinearSearch.java)
-├── Exercise # 2: Linked List - Reversed Linear Search (Midterm_Exercise2_LinkedList_ReversedLinearSearch.java)
-├── Exercise # 3: One Dimensional Array - Queue (Midterm_Exercise3_OneDimArray_Queue.java)
-├── Exercise # 4: Linked List - Queue (Midterm_Exercise4_LinkedList_Queue.java)
-└── Exercise # 5: Linked List - Data Manipulation (Midterm_Exercise5_LinkedList_DataManipulation.java)
+├─ Exercise # 1: Linked List - Linear Search (Midterm_Exercise1_LinkedList_LinearSearch.java)
+├─ Exercise # 2: Linked List - Reversed Linear Search (Midterm_Exercise2_LinkedList_ReversedLinearSearch.java)
+├─ Exercise # 3: One Dimensional Array - Queue (Midterm_Exercise3_OneDimArray_Queue.java)
+├─ Exercise # 4: Linked List - Queue (Midterm_Exercise4_LinkedList_Queue.java)
+└─ Exercise # 5: Linked List - Data Manipulation (Midterm_Exercise5_LinkedList_DataManipulation.java)
 ```
 
 Exercise # 1: Linked List - Linear Search (Midterm_Exercise1_LinkedList_LinearSearch.java)

@@ -6,6 +6,7 @@
    <img src="https://img.shields.io/badge/Purpose-EDUCATION/LEARNING-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Purpose-EDUCATION/LEARNING">
    <img src="https://img.shields.io/badge/Version-2.1.3-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Version 2.1.3">
    <img src="https://img.shields.io/badge/Lang-Java%2022.0.2-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Lang-Java 22.0.2">
+   <img src="https://img.shields.io/badge/Database-None-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Database-None">
    <img src="https://img.shields.io/badge/Contribute-OPEN-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Contribute-OPEN">
    <img src="https://img.shields.io/badge/License-MIT-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="License MIT">
    <img src="https://img.shields.io/badge/Last%20Update-20.10.2024-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update 20.10.2024">
@@ -14,10 +15,10 @@
    </a>
 </p>
 
-## ![SECTION Changelog](https://custom-icon-badges.demolab.com/badge/-Changelog-24292e?logo=log&logoColor=white&labelColor=00416a)
+## ![SECTION Changelog](https://custom-icon-badges.demolab.com/badge/-Changelog-2471AE?logo=log&logoColor=white&labelColor=2471AE)
 This document contains the complete chronological list of updates and changes to the project
 
-## ![SECTION Changelog under Version 2](https://custom-icon-badges.demolab.com/badge/-Changelog%20under%20Version%202-24292e?logo=flame&logoColor=white&labelColor=2471AE)
+## ![SECTION Changelog under Version 2](https://custom-icon-badges.demolab.com/badge/-Changelog%20under%20Version%202-24292e?logo=flame&logoColor=white&labelColor=00416a)
 
 | Version | Date | Commit | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -26,7 +27,7 @@ This document contains the complete chronological list of updates and changes to
 | 2.1.1 | 14.09.2024 | [118e2d1](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/commit/118e2d10dc55f82a5ec38dc68f928fc9a9e0c3b7) for [PR 6](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/pull/6), [3a2fac0](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/commit/3a2fac08c539f0ce0c766b9337e62880358e477e) for [PR 7](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/pull/7) | fix | - Updated Markdown files structure overall based on the template: https://github.com/thenocturnaldevgypsy/github-markdown-template-readme/blob/master/MD%20Templates/Repo-App-README-v-0-0-1.md. Updated README.md. Created DSAA-LabExercise-Prelim.md, DSAA-LabExercise-Prelim.md, DSAA-LabExercise-Prelim.md and DSAA-LabExercise-Prelim.md to separate Demo and Exercise user stories / descriptions from the original README.md ([PR 6](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/pull/6)).<br>- Updated directory structure. Deleted "programmingessentialsoop" subdirectory, and replace it with "computerprogramming1", "computerprogramming2" and "computerprogramming3" subdirectories. Created main classes for each subdirectories and the corresponding "on-going" placements ([PR 7](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/pull/7)).|
 | 2.0.0 | 06.09.2024 | [ea3bb0a](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/commit/ea3bb0aa0020fb29324b15cfc9b5f24ca78b87e5) | fix & feat | - Recreated repo from `duskgrimoire-java-lab-exercises` to `duskgrimoires-java-lab-exercises` <br>- Continued separating source codes per subject / topic via subdirectory. <br>- Renamed subdirectory `data-structure-algorithm-analysis` to `datastructurealgorithmanalysis` and created `DataStrucAlgoAnalysis.java` to serve as the Table of Contents for the Apps under `Data Structure and Algorithm Analysis`. <br>- Created subdirectory `programmingessentialsoop` and created `ProgEssentialsOOP.java` to serve as the Table of Contents for the Apps under `Programming Essentials to OOP`. <br>- Updated `App.java` to serve as the Table of Contents for the overall App. |
 
-## ![SECTION Changelog under Version 1](https://custom-icon-badges.demolab.com/badge/-Changelog%20under%20Version%201-24292e?logo=flame&logoColor=white&labelColor=2471AE)
+## ![SECTION Changelog under Version 1](https://custom-icon-badges.demolab.com/badge/-Changelog%20under%20Version%201-24292e?logo=flame&logoColor=white&labelColor=00416a)
 
 | Version | Date | Commit | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
