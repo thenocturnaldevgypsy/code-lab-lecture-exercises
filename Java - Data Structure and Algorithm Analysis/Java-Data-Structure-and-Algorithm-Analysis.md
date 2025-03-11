@@ -18,7 +18,7 @@
 
 `Java - Data Structure and Algorithm Analysis` contains source codes I've coded and used for the said topic/subject during my CS/IT Professor Career.
 
-Back to [(main) README.md](./README.md)
+Back to [(main) README.md](../README.md)
 
 ## ![SECTION Folders and Files Structure](https://custom-icon-badges.demolab.com/badge/-Folders%20and%20Files%20Structure-2471AE?logo=file-submodule&logoColor=white&labelColor=2471AE)
 
