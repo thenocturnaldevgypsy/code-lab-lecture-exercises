@@ -69,7 +69,7 @@ project-root/
 
 
 ## ![SECTION Roadmap](https://custom-icon-badges.demolab.com/badge/-Roadmap-2471AE?logo=tasklist&logoColor=white&labelColor=2471AE)
-See the [open issues](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/issues) and [backlog](https://github.com/thenocturnaldevgypsy/duskgrimoires-java-lab-exercises/milestones) for the list of proposed features (and known issues).
+See the [open issues](https://github.com/thenocturnaldevgypsy/code-lab-lecture-exercises/issues) and [backlog](https://github.com/thenocturnaldevgypsy/code-lab-lecture-exercises/milestones) for the list of proposed features (and known issues).
 
 ## ![SECTION Changelog](https://custom-icon-badges.demolab.com/badge/-Changelog-2471AE?logo=log&logoColor=white&labelColor=2471AE)
 
