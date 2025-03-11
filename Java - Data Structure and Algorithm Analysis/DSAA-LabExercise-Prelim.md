@@ -1,18 +1,17 @@
 <!-- <p align="center"><img src="/md_assets/octocat.gif" alt="Logo" width="130" height="130"></p> -->
-<h3 align="center">DuskGrimoires</h3>
-<p align="center"><em>Good 'old Java library/source codes that I've coded and used for lecturing CS/IT subjects and topics</em></p>
+<h3 align="center">Codes for Lab Lecture Exercises Used</h3>
+<p align="center"><em>Good 'old library/source codes that I've coded and used for lecturing CS/IT subjects and topics</em></p>
 <p align="center"><strong>You like the Repo? Don't forget to 🌟, 👁️, 🔱 and ❤️!</strong></p>
 <p align="center">
    <img src="https://img.shields.io/badge/Purpose-EDUCATION/LEARNING-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Purpose-EDUCATION/LEARNING">
-   <img src="https://img.shields.io/badge/Version-2.1.3-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Version 2.1.3">
-   <img src="https://img.shields.io/badge/Lang-Java%2022.0.2-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Lang-Java 22.0.2">
+   <img src="https://img.shields.io/badge/Version-3.0.0-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Version 3.0.0">
+   <img src="https://img.shields.io/badge/Lang-Java-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Lang-Java">
    <img src="https://img.shields.io/badge/Database-None-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Database-None">
-   <img src="https://img.shields.io/badge/Contribute-OPEN-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Contribute-OPEN">
+   <img src="https://img.shields.io/badge/Contribute-CLOSED-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Contribute-CLOSED">
    <img src="https://img.shields.io/badge/License-MIT-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="License MIT">
-   <img src="https://img.shields.io/badge/Last%20Update-20.10.2024-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update 20.10.2024">
-   <a href="https://ko-fi.com/thenocturnaldevgypsy">
-      <img src="https://img.shields.io/badge/Support%20me%20via%20Ko--Fi-%2300416a?logo=ko-fi&logoColor=white&color=%2300416a&textColor=white" alt="Support me via Ko-Fi">
-   </a>
+   <img src="https://img.shields.io/badge/Last%20Update-11.03.2025-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update 11.03.2025">
+   <a href="https://ko-fi.com/thenocturnaldevgypsy"><img src="https://img.shields.io/badge/Support%20me%20via%20Ko--Fi-%2300416a?logo=ko-fi&logoColor=white&color=%2300416a&textColor=white" alt="Support me via Ko-Fi"></a>
+<a href="https://github.com/sponsors/thenocturnaldevgypsy"><img src="https://custom-icon-badges.demolab.com/badge/Sponsor%20me%20at%20GitHub-%2300416a?logo=heart&logoColor=white&color=%2300416a&textColor=white" alt="Sponsor me at GitHub"></a>
 </p>
 
 ## ![SECTION Contents and Breakdown](https://custom-icon-badges.demolab.com/badge/-Contents%20and%20Breakdown-2471AE?logo=book&logoColor=white&labelColor=2471AE)
@@ -25,18 +24,18 @@ Back to [(main) Data Structures and Algorithm Analysis](Java-Data-Structure-and-
 
 ```
 Demo
-├─ Demo # 1: One Dimensional Array (Demo_OneDimArray.java)
-├─ Demo # 2: One Dimensional Array - Debug (Demo_OneDimArray_Debug)
-├─ Demo # 3: One Dimensional Array - Input (Demo_OneDimArray_Input.java)
-├─ Demo # 4: Two Dimensional Array (Demo_TwoDimArray.java)
-├─ Demo # 5: Two Dimensional Array - String (Demo_TwoDimArray_String.java)
-├─ Demo # 6: Two Dimensional Array - Storing (Demo_TwoDimArray_Storing.java)
-├─ Demo # 7: Method (Demo_Method.java)
-├─ Demo # 8: Method - Return (Demo_Method_Return.java)
-├─ Demo # 9: Method - Void (Demo_Method_Void.java)
-├─ Demo # 10: Stack (Demo_Stack.java)
-├─ Demo # 11: String - Reversed Word (Demo_String_ReverseWord.java)
-└─ Demo # 12: Stack - Decimal To Binary (Demo_Stack_DecToBin.java)
+├─ Demo # 1: One Dimensional Array (src/Demo_OneDimArray.java)
+├─ Demo # 2: One Dimensional Array - Debug (src/Demo_OneDimArray_Debug)
+├─ Demo # 3: One Dimensional Array - Input (src/Demo_OneDimArray_Input.java)
+├─ Demo # 4: Two Dimensional Array (src/Demo_TwoDimArray.java)
+├─ Demo # 5: Two Dimensional Array - String (src/Demo_TwoDimArray_String.java)
+├─ Demo # 6: Two Dimensional Array - Storing (src/Demo_TwoDimArray_Storing.java)
+├─ Demo # 7: Method (src/Demo_Method.java)
+├─ Demo # 8: Method - Return (src/Demo_Method_Return.java)
+├─ Demo # 9: Method - Void (src/Demo_Method_Void.java)
+├─ Demo # 10: Stack (src/Demo_Stack.java)
+├─ Demo # 11: String - Reversed Word (src/Demo_String_ReverseWord.java)
+└─ Demo # 12: Stack - Decimal To Binary (src/Demo_Stack_DecToBin.java)
 ```
 
 <!-- 1. Demo #1
@@ -53,22 +52,22 @@ Demo
 
 ```
 Exercises (conditions and expected output)
-├─ Exercise # 1: Java Refresher (Prelim_Exercise1_JavaRefresher.java)
-├─ Exercise # 2: One Dimensional Array - Minimum, Maximum, Average (Prelim_Exercise2_OneDimArray_MinMaxAve.java)
-├─ Exercise # 3: Two Dimensional Array - Minimum, Maximum, Average (Prelim_Exercise3_TwoDimArray_MinMaxAve.java)
-├─ Exercise # 4: Arrays - Faculty Listing, Type, Rate and Salary (Prelim_Exercise4_FacultyPayslip.java)
-├─ Exercise # 5: Arrays - BubbleSort (Prelim_Exercise5_BubbleSort.java)
-├─ Exercise # 6: Arrays - Linear Binary Search (Prelim_Exercise6_LinearBinarySearch.java)
-├─ Exercise # 7: Arrays - InsertionSort and SelectionSort (Prelim_Exercise7_InsertionSortSelectionSort.java)
-├─ Exercise # 8: Method - Operations (Prelim_Exercise8_Method_Operations.java)
-├─ Exercise # 9: Method - Factorial (Prelim_Exercise9_Method_Factorial.java)
-├─ Exercise # 10: Method - TriangularNumber (Prelim_Exercise10_Method_TriangularNumber.java)
-├─ Exercise # 11: Stack - Reversed Word (Prelim_Exercise11_Stack_ReverseWord.java)
-├─ Exercise # 12: Stack - Leave Bracket Alone (Prelim_Exercise12_Stack_Brackets.java)
-└─ Exercise # 13: Stack - Decimal Conversion (Prelim_Exercise13_DecimalConversion.java)
+├─ Exercise # 1: Java Refresher (src/Prelim_Exercise1_JavaRefresher.java)
+├─ Exercise # 2: One Dimensional Array - Minimum, Maximum, Average (src/Prelim_Exercise2_OneDimArray_MinMaxAve.java)
+├─ Exercise # 3: Two Dimensional Array - Minimum, Maximum, Average (src/Prelim_Exercise3_TwoDimArray_MinMaxAve.java)
+├─ Exercise # 4: Arrays - Faculty Listing, Type, Rate and Salary (src/Prelim_Exercise4_FacultyPayslip.java)
+├─ Exercise # 5: Arrays - BubbleSort (src/Prelim_Exercise5_BubbleSort.java)
+├─ Exercise # 6: Arrays - Linear Binary Search (src/Prelim_Exercise6_LinearBinarySearch.java)
+├─ Exercise # 7: Arrays - InsertionSort and SelectionSort (src/Prelim_Exercise7_InsertionSortSelectionSort.java)
+├─ Exercise # 8: Method - Operations (src/Prelim_Exercise8_Method_Operations.java)
+├─ Exercise # 9: Method - Factorial (src/Prelim_Exercise9_Method_Factorial.java)
+├─ Exercise # 10: Method - TriangularNumber (src/Prelim_Exercise10_Method_TriangularNumber.java)
+├─ Exercise # 11: Stack - Reversed Word (src/Prelim_Exercise11_Stack_ReverseWord.java)
+├─ Exercise # 12: Stack - Leave Bracket Alone (src/Prelim_Exercise12_Stack_Brackets.java)
+└─ Exercise # 13: Stack - Decimal Conversion (src/Prelim_Exercise13_DecimalConversion.java)
 ```
 
-Exercise # 1: Java Refresher (Prelim_Exercise1_JavaRefresher.java)
+Exercise # 1: Java Refresher (src/Prelim_Exercise1_JavaRefresher.java)
 - User Story and Expected Output
       ```
       Create a Java Program with the following output:
@@ -93,7 +92,7 @@ Exercise # 1: Java Refresher (Prelim_Exercise1_JavaRefresher.java)
       -  No/Hindi: Gutom lang yan.
       Nice meeting you <name>, sa uulitin!
       ```
-Exercise # 2: One Dimensional Array - Minimum, Maximum, Average (Prelim_Exercise2_OneDimArray_MinMaxAve.java)
+Exercise # 2: One Dimensional Array - Minimum, Maximum, Average (src/Prelim_Exercise2_OneDimArray_MinMaxAve.java)
 - User Story and Expected Output
       ```
       Create a Java Program with the following requirements:
@@ -130,7 +129,7 @@ Exercise # 2: One Dimensional Array - Minimum, Maximum, Average (Prelim_Exercise
       The maximum is 10
       The average is 5.5
       ```
-Exercise # 3: Two Dimensional Array - Minimum, Maximum, Average (Prelim_Exercise3_TwoDimArray_MinMaxAve.java)
+Exercise # 3: Two Dimensional Array - Minimum, Maximum, Average (src/Prelim_Exercise3_TwoDimArray_MinMaxAve.java)
 - User Story and Expected Output
       ```
       Create a Java Program with the following requirements:
@@ -168,7 +167,7 @@ Exercise # 3: Two Dimensional Array - Minimum, Maximum, Average (Prelim_Exercise
       The maximum is 100, stored at [1][2]
       The average is 7.0
       ```
-Exercise # 4: Arrays - Faculty Listing, Type, Rate and Salary (Prelim_Exercise4_FacultyPayslip.java)
+Exercise # 4: Arrays - Faculty Listing, Type, Rate and Salary (src/Prelim_Exercise4_FacultyPayslip.java)
 - User Story and Expected Output
       ```
       Create a Java program with the following requirements:
@@ -248,7 +247,7 @@ Exercise # 4: Arrays - Faculty Listing, Type, Rate and Salary (Prelim_Exercise4_
       Number of Hours: 10
       Salary: 1,500.00
       ```
-Exercise # 5: Arrays - BubbleSort (Prelim_Exercise5_BubbleSort.java)
+Exercise # 5: Arrays - BubbleSort (src/Prelim_Exercise5_BubbleSort.java)
 - User Story and Expected Output
       ```
       Output:
@@ -325,7 +324,7 @@ Exercise # 5: Arrays - BubbleSort (Prelim_Exercise5_BubbleSort.java)
 
       Display sorted list: 1 2 3 4 5 6 7 8 9 10
       ```
-Exercise # 6: Arrays - Linear Binary Search (Prelim_Exercise6_LinearBinarySearch.java)
+Exercise # 6: Arrays - Linear Binary Search (src/Prelim_Exercise6_LinearBinarySearch.java)
 - User Story and Expected Output
       ```
       Create a Java program with the following requirements:
@@ -381,7 +380,7 @@ Exercise # 6: Arrays - Linear Binary Search (Prelim_Exercise6_LinearBinarySearch
       middle = [3 + 3 = 6 / 2 = 3] = 3
       - Is array[3] : 6 <, >, =  6? =, TRUE, stored at [3]
       ```
-Exercise # 7: Arrays - InsertionSort and SelectionSort (Prelim_Exercise7_InsertionSortSelectionSort.java)
+Exercise # 7: Arrays - InsertionSort and SelectionSort (src/Prelim_Exercise7_InsertionSortSelectionSort.java)
 - User Story and Expected Output
       ```
       Create a Java program with the following requirements/0utput:
@@ -537,7 +536,7 @@ Exercise # 7: Arrays - InsertionSort and SelectionSort (Prelim_Exercise7_Inserti
 
       Display sorted list: 0 1 2 3 4 5 6 7 8 9 
       ```
-Exercise # 8: Method - Operations (Prelim_Exercise8_Method_Operations.java)
+Exercise # 8: Method - Operations (src/Prelim_Exercise8_Method_Operations.java)
 - User Story and Expected Output
       ```
       Create a Java Program based on the output below:
@@ -553,7 +552,7 @@ Exercise # 8: Method - Operations (Prelim_Exercise8_Method_Operations.java)
 
       Condition: Each operation (addition, subtraction, multiplication and division) must be coded and perfomed in separate methods, meaning you must have one void main and four methods in your program (one java method for addition, one java method for subtraction, one java method for multiplication and one java method for division).
       ```
-Exercise # 9: Method - Factorial (Prelim_Exercise9_Method_Factorial.java)
+Exercise # 9: Method - Factorial (src/Prelim_Exercise9_Method_Factorial.java)
 - User Story and Expected Output
       ```
       Create a Java Program based on the output below:
@@ -563,7 +562,7 @@ Exercise # 9: Method - Factorial (Prelim_Exercise9_Method_Factorial.java)
       
       Condition: The computation of the factorial must be coded and perfomed in a method, meaning you must have one void main and one method in your program (one java method for the factorial).
       ```
-Exercise # 10: Method - TriangularNumber (Prelim_Exercise10_Method_TriangularNumber.java)
+Exercise # 10: Method - TriangularNumber (src/Prelim_Exercise10_Method_TriangularNumber.java)
 - User Story and Expected Output
       ```
       Create a Java program with the following requirements/output:
@@ -581,7 +580,7 @@ Exercise # 10: Method - TriangularNumber (Prelim_Exercise10_Method_TriangularNum
 
       Condition: The generation of the asterisk and computing the triangular number must be coded and perfomed in methods, meaning you must have one void main and two methods in your program (one java method for generating the asterisk of the triangular number and one method for computing the triangular number).
       ```
-Exercise # 11: Stack - Reversed Word (Prelim_Exercise11_Stack_ReverseWord.java)
+Exercise # 11: Stack - Reversed Word (src/Prelim_Exercise11_Stack_ReverseWord.java)
 - User Story and Expected Output
       ```
       Create a Java program with the following requirements/output:
@@ -591,7 +590,7 @@ Exercise # 11: Stack - Reversed Word (Prelim_Exercise11_Stack_ReverseWord.java)
 
       Condition: You must use stack and the .push() and .pop() methods in this program.
       ```
-Exercise # 12: Stack - Leave Bracket Alone (Prelim_Exercise12_Stack_Brackets.java)
+Exercise # 12: Stack - Leave Bracket Alone (src/Prelim_Exercise12_Stack_Brackets.java)
 - User Story and Expected Output
       ```
       Create a Java program with the following requirements/output:
@@ -601,7 +600,7 @@ Exercise # 12: Stack - Leave Bracket Alone (Prelim_Exercise12_Stack_Brackets.jav
 
       Condition: You must use stack and the .push() and .pop() methods in this program.
       ```
-Exercise # 13: Stack - Decimal Conversion (Prelim_Exercise13_DecimalConversion.java)
+Exercise # 13: Stack - Decimal Conversion (src/Prelim_Exercise13_DecimalConversion.java)
 - User Story and Expected Output
       ```
       Create a Java program with the following requirements/output:
