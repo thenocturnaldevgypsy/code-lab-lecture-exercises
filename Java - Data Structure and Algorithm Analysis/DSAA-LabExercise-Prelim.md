@@ -19,7 +19,7 @@
 
 #### Under Data Structures and Algorithm Analysis > All Activities under Prelim Period
 
-Back to [Main](README.md)
+Back to [(main) Data Structures and Algorithm Analysis](Java-Data-Structure-and-Algorithm-Analysis.md)
 
 ## ![SUBSECTION Demo](https://custom-icon-badges.demolab.com/badge/-Demo-24292e?logo=codespaces&logoColor=white&labelColor=00416a)
 
