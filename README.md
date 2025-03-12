@@ -9,17 +9,17 @@
    <img src="https://img.shields.io/badge/Database-None-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Database-None">
    <img src="https://img.shields.io/badge/Contribute-CLOSED-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Contribute-CLOSED">
    <img src="https://img.shields.io/badge/License-MIT-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="License MIT">
-   <img src="https://img.shields.io/badge/Last%20Update-11.03.2025-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update 11.03.2025">
+   <img src="https://img.shields.io/badge/Last%20Update-12.03.2025-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update 12.03.2025">
    <a href="https://ko-fi.com/thenocturnaldevgypsy"><img src="https://img.shields.io/badge/Support%20me%20via%20Ko--Fi-%2300416a?logo=ko-fi&logoColor=white&color=%2300416a&textColor=white" alt="Support me via Ko-Fi"></a>
 <a href="https://github.com/sponsors/thenocturnaldevgypsy"><img src="https://custom-icon-badges.demolab.com/badge/Sponsor%20me%20at%20GitHub-%2300416a?logo=heart&logoColor=white&color=%2300416a&textColor=white" alt="Sponsor me at GitHub"></a>
 </p>
 
 ## ![SECTION About this Repository](https://custom-icon-badges.demolab.com/badge/-About%20this%20Repository-2471AE?logo=repo&logoColor=white&labelColor=2471AE)
 
-`code-lab-lecture-exercises` is an old library that contains source codes I've coded and used during my career as Assistant Professor for BSCS, BSIT and BSCOE way back late 2007 to 2015.
+`code-lab-lecture-exercises` is an old library that contains source codes I've coded and used during my career as BSCS/BSIT/BSCOE Assistant Professor way back late 2007 to 2015.
 
 > [!NOTE]
-> *I've created this repo as a reminder to myself that C, C++, Java, HTML+CSS, JavaScript and PHP were the programming languages I got **heavily** exposed when I was teaching in College/University. It's also a good way to refresh my programming, git (and GitHub) and markdown formatting skills. And just a reminder, the codes here were initially made way back 2007 and been updated regularly until 2015. So I only did some **best effort** to make sure that the codes that are in this repo can be compiled and can be read thru by users.*
+> *I've created this repo as a reminder to myself that C, C++, Java, HTML+CSS, JavaScript and PHP were the programming languages I got **heavily** exposed when I was teaching in College/University. It's also a good way to refresh my programming, git (and GitHub) and markdown formatting skills. And just a reminder, the codes here were initially made way back 2007 and been updated regularly until 2015. So I only did some **best effort** to make sure that the codes that are in this repo can be compiled and can be read thru and run by users.*
 
 ## ![SECTION Build With ❤️ and ...](https://custom-icon-badges.demolab.com/badge/-Build%20With%20❤️%20and%20...-2471AE?logo=tools&logoColor=white&labelColor=2471AE)
 
@@ -62,9 +62,9 @@ project-root/
 ```
 
 ## ![SECTION Contents and Breakdown](https://custom-icon-badges.demolab.com/badge/-Contents%20and%20Breakdown-2471AE?logo=book&logoColor=white&labelColor=2471AE)
-- 🚧 Under Java - Computer Programming 1
-- 🚧 Under Java - Computer Programming 2
-- 🚧 Under Java - Computer Programming 3
+- 🚧 Under [Java - Computer Programming 1](/Java%20-%20Computer%20Programming%201/Java-Computer-Programming-1.md)
+- 🚧 Under [Java - Computer Programming 2](/Java%20-%20Computer%20Programming%202/)
+- 🚧 Under [Java - Computer Programming 3](/Java%20-%20Computer%20Programming%203/Java-Computer-Programming-3.md)
 - ✅ Under [Java - Data Structures and Algorithm Analysis](/Java%20-%20Data%20Structure%20and%20Algorithm%20Analysis/Java-Data-Structure-and-Algorithm-Analysis.md)
 
 
@@ -77,7 +77,7 @@ Below is the latest updates, go to the [Changelog Listing](CHANGELOG.md) for the
 
 | Version | Date | Issue/PR | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 3.0.0 | 11.03.2025 | --- | refactor, chore, docs | - Renamed repo from `duskgrimoires-java-lab-exercises` to `code-lab-lecture-exercises`<br>- Done revisting SPs of the previous issues and PRs, all are correct.<br>- Updated the linked GitHub projects in this repo.<br>- Updated the labels used in the repo, and re-assign the labels of current to previous issues and PRs<br>- Reorganized the directories, program app directories UI/UX<br>- Updated documentation: `README.md`, `CHANGELOG.md`. Removed `CONTRIBUTING.md` |
+| 3.0.0 | 12.03.2025 | [I#8](https://github.com/thenocturnaldevgypsy/code-lab-lecture-exercises/issues/8), [PR#]() | refactor, chore, docs | - Renamed repo from `duskgrimoires-java-lab-exercises` to `code-lab-lecture-exercises`<br>- Done revisting SPs of the previous issues and PRs, all are correct.<br>- Updated the linked GitHub projects in this repo.<br>- Updated the labels used in the repo, and re-assign the labels of current to previous issues and PRs<br>- Reorganized the directories, program app directories UI/UX<br>- Updated documentation: `README.md`, `CHANGELOG.md`. Removed `CONTRIBUTING.md` |
 
 <!-- ## ![SECTION Contribute](https://custom-icon-badges.demolab.com/badge/-Contribute-2471AE?logo=code-of-conduct&logoColor=white&labelColor=2471AE)
 Want to contribute? Great! Contributions welcome, but please read the [contribution guidelines](CONTRIBUTING.md) first on how to contribute to the project, including pull request guidelines and community contributions. -->
