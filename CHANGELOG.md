@@ -21,7 +21,7 @@ This document contains the complete chronological list of updates and changes to
 
 | Version | Date | Issue/PR | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| --- | --- | --- | --- | --- |
+| 3.0.0 | 12.03.2025 | [I#8](https://github.com/thenocturnaldevgypsy/code-lab-lecture-exercises/issues/8), [PR#10](https://github.com/thenocturnaldevgypsy/code-lab-lecture-exercises/pull/10) | refactor, chore, docs | - Renamed repo from `duskgrimoires-java-lab-exercises` to `code-lab-lecture-exercises`<br>- Done revisting SPs of the previous issues and PRs, all are correct.<br>- Updated the linked GitHub projects in this repo.<br>- Updated the labels used in the repo, and re-assign the labels of current to previous issues and PRs<br>- Reorganized the directories, program app directories UI/UX<br>- Updated documentation: `README.md`, `CHANGELOG.md`. Removed `CONTRIBUTING.md` |
 
 ## ![SECTION Changelog under Version 3](https://custom-icon-badges.demolab.com/badge/-Changelog%20under%20Version%202-24292e?logo=flame&logoColor=white&labelColor=00416a)
 
